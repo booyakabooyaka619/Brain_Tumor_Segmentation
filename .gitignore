@@ -1,0 +1,5 @@
+# Ignore virtual environment
+venv/
+
+# Ignore large dataset folder
+kaggle_3m/

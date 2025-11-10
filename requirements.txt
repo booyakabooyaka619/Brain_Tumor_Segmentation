@@ -1,0 +1,12 @@
+# ==========================
+# Stock Trend Prediction App
+# Core Dependencies
+# ==========================
+
+# Core ML Framework (Very Important)
+tensorflow== 2.19.0
+
+# Supporting Libraries
+numpy== 2.1.3
+pandas== 2.3.3
+streamlit== 1.51.0
